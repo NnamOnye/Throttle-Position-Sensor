@@ -1,5 +1,1 @@
-class de_scription()
-{
-  cout<<"throttle position sensor";
-}
-
+# Firmware for a throttle position sensor
