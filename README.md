@@ -1,1 +1,1 @@
-# Firmware for a throttle position sensor
+# Logic for a throttle position sensor
