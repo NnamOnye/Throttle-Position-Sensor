@@ -7,8 +7,8 @@
 
 using namespace std;
 
-//In a realworld applocation this function would be changed
-//It will interact with the hardware GPIO
+//In a realworld application this function would be changed
+// You would initialise specific GPIO depending on the hardware
 int readThrottlePositionSensor() {
 
     return rand() % 1024;
